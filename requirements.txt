@@ -1,0 +1,10 @@
+# Python dependencies for Data Engineer Portfolio
+pandas
+requests
+psycopg2-binary
+apache-airflow
+kafka-python
+pyspark
+sqlfluff
+pytest
+flake8
